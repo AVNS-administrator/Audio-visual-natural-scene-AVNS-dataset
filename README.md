@@ -5,6 +5,8 @@ This is the official repository of the AVNS dataset. For details of how we creat
 **Download**
 
 please fill out the Google Form: https://docs.google.com/forms/d/e/1FAIpQLSf0ThdIoxXxTMPlDfDNqv58zXX7gtAc4idu1j7EUexPTb1Xkg/viewform?usp=sf_link. After completion, the download link will be displayed automatically.
-<span style="font-size: larger;">Dataset</span>
+
+**Dataset**
+
 The AVNS dataset covers a total of 11 scene classes: road, metro station, metro, bus, airport, canteen, playground, shopping mall (indoor), market (outdoor), park, and wild. 
 Data was recorded either in a fixed position, referred to as static recording, or while recording people in normal speed movements, referred to as mobile recording.
