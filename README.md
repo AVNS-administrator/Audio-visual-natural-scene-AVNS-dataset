@@ -13,6 +13,7 @@ The AVNS dataset covers a total of 11 scene classes: road, metro station, metro,
 Data was recorded either in a fixed position, referred to as static recording, or while recording people in normal speed movements, referred to as mobile recording.
 
 **Citation**
+
 If you find AVNS dataset useful in your research, please use the following BibTeX entry for citation.
 
 ```
