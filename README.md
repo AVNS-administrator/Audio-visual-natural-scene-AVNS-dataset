@@ -4,7 +4,9 @@ This is the official repository of the AVNS dataset. For details of how we creat
 
 **Download**
 
-please fill out the Google Form: https://docs.google.com/forms/d/e/1FAIpQLSf0ThdIoxXxTMPlDfDNqv58zXX7gtAc4idu1j7EUexPTb1Xkg/viewform?usp=sf_link. After completion, the download link will be displayed automatically.
+please fill out the Google Form: https://docs.google.com/forms/d/e/1FAIpQLSf0ThdIoxXxTMPlDfDNqv58zXX7gtAc4idu1j7EUexPTb1Xkg/viewform?usp=sf_link. 
+
+After completion, the download link will be displayed automatically.
 
 **Dataset**
 
