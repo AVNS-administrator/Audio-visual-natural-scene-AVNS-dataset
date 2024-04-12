@@ -8,7 +8,8 @@ please fill out the Google Form: https://docs.google.com/forms/d/e/1FAIpQLSf0Thd
 
 You can also scan this QRcode to  fill out the simple questionnaire. After submission, the download link will be displayed automatically.
  
-![GitHub Logo](/qrcode.png)
+ 
+
 <img src="/qrcode.png" width="200" height="200" alt="GitHub Logo">
 
 **Dataset**
